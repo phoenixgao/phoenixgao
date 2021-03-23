@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently looking for a backend tech lead or engineering manager role
 <!--
 **phoenixgao/phoenixgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
